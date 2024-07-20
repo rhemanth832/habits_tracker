@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "370481031506",
+    "project_id": "habits-tracker-3329e",
+    "storage_bucket": "habits-tracker-3329e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370481031506:android:7a67b0d06e2d8797d9728b",
+        "android_client_info": {
+          "package_name": "com.DigitalDreamStudios.habitstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370481031506-qoq3qrgdfhjechiibvub4k577etcbc7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DigitalDreamStudios.habitstracker",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "370481031506-19oc0qmvh041chs2o6qechq8du1e896h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2tusmO_TKGayB76id3fzosLuow2ISGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370481031506-19oc0qmvh041chs2o6qechq8du1e896h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370481031506-rptr40nkr2or3goph939aqksklndpnm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DigitalDreamStudios.habitstracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
